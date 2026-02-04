@@ -6,7 +6,7 @@ This project provides a comprehensive analysis of the real estate market in Riya
 ---
 
 ### 🎥 Live Demo
-Watch how the dashboard interacts with data in real-time:
+Watch how the dashboard interacts with data in real time:
 
 ![Dashboard Demo](dashboard_demo.gif.gif)
 
