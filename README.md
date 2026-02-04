@@ -20,7 +20,7 @@ Watch how the dashboard interacts with data in real time:
 ---
 
 ### 🔍 Key Insights
-1. **Market Composition:** Lands (أراضي) dominate the market supply, indicating strong development potential.
+1. **Market Composition:** Villas (فلل) dominate the market supply (~42%), followed closely by Lands (~38%).
 2. **Price Hotspots:** Northern Riyadh districts (e.g., Al-Malqa) command the highest prices.
 3. **Value Analysis:** The "Price per Meter" metric reveals the true investment value, filtering out the bias of large property sizes.
 
